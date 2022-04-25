@@ -157,7 +157,7 @@ class Footerx extends Component {
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-md-6 col-sm-6">
-                                <p>Copyright &copy;{currentYear} <a href="https://jacquelinetaylorandfriends.org" target="_blank">Jacqueline Taylor & Friends</a>. All Rights Reserved!</p>
+                                <p>Copyright &copy;{currentYear} <a href="https://jacquelinetaylorandfriends.org" target="_blank" rel="noreferrer">Jacqueline Taylor & Friends</a>. All Rights Reserved!</p>
                             </div>
 
                              <div className="col-lg-6 col-md-6 col-sm-6">
